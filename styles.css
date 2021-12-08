@@ -1,0 +1,64 @@
+.resume{
+    width: 730px;
+    height:auto;
+    margin:50px auto; 
+    background-color: white;
+    padding: 35px 35px 45px 45px; 
+}
+body{
+    background-color: black;
+    font-family: normal;
+}
+.myname{
+    color : #2b78bb;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    /* font-size:2.5vw; */
+}
+.contact, .contact a {
+    text-align: center;
+    color: black;
+}
+#firstline{
+    color :#2570b3;    
+}
+.head{
+    font-size: 20px;
+    font-weight: bold;
+    color: #2570b3;
+    padding-bottom: 5.5px;
+}
+.school-name, .project-titles{
+    font-size: 15px;
+    color : black;
+    font-weight: bold;
+    text-align: left;
+}
+.course, .skills-details, .experience-details,.individual-project-details{
+    font-size: 15px;
+    color : black;
+    padding-bottom: 4.5px;
+}
+.education-content ,.skills-content, .experience-details, .projects-details, .academic-extra-activities, .hobbies, .languages, .declaration{
+    border : solid;
+    border-width: 0 0 0 2.5px;
+    border-color: #2570b3;
+    padding-left: 15px;
+}
+.space-after{
+    margin-top: 14px;
+}
+.left{
+    float:left;   
+}
+.project-left{
+    font-weight: bold;
+}
+.right{
+    float:right;  
+    font-weight: bold;
+}
+
+
+
